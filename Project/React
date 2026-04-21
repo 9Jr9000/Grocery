@@ -1,0 +1,4 @@
+npm create vite@latest grocery-app
+cd grocery-app
+npm install
+npm install lucide-react
